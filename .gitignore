@@ -1,0 +1,17 @@
+smoothing
+*~
+*.o
+*.vcxproj
+*.filters
+*.user
+*.d
+*.zip
+*.cpp#
+*.cpp~
+*.ppm
+*.png
+*.jpeg
+hide
+shade
+.vscode
+
